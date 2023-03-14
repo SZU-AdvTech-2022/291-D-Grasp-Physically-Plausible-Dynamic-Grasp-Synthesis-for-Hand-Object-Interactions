@@ -1,0 +1,7 @@
+@inproceedings{REPO-292,
+    author = "Christen, Sammy and Kocabas, Muhammed and Aksan, Emre and Hwangbo, Jemin and Song, Jie and Hilliges, Otmar",
+    booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "20545-20554",
+    title = "{D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions}",
+    year = "2022"
+}
